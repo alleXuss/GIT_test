@@ -1,3 +1,3 @@
-# я прохожу курс по git
+#I'm taking a course on Git
 
-I'm taking a course on git
+Я прохожу курс по Git
